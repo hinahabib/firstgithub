@@ -5,3 +5,4 @@
 # 4. on next page we will copy path of repository then we will open vscode and paste that path in remote option by using add remote option and then press enter after that we will name this path as firstgitpush
 # then publish Branch
 # if make a change in the file then : staged then commit with name of second push, Sync changes
+### git. another push after opening the folder again
